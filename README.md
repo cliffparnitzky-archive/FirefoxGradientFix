@@ -4,7 +4,7 @@ Contao FifefoxGradientFix Extension
 Special extension that fixes problems with gradient in firefox (they changed angle about 90°).
 Only angles will be corrected (values like `90deg`).
 
-Mor information about this change could be found [here](http://www.peterkroener.de/aenderungen-in-der-neuen-css3-farbverlauf-syntax-ohne-vendor-prefix).
+More information about this change could be found [here](http://www.peterkroener.de/aenderungen-in-der-neuen-css3-farbverlauf-syntax-ohne-vendor-prefix).
 
 
 Installation
