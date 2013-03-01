@@ -1,5 +1,5 @@
-Contao FifefoxGradientFix Extension
-===================================
+Contao Extension: FifefoxGradientFix
+====================================
 
 Special extension that fixes problems with gradient in firefox (they changed angle about 90°).
 Only angles will be corrected (values like `90deg`).
